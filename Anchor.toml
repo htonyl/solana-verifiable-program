@@ -5,7 +5,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-demo_deployment = "RL9Bcs7ypX4ydkBcwL6qMVxLJr5yRdWx3wFCmyCddw8"
+counter_anchor = "RL9Bcs7ypX4ydkBcwL6qMVxLJr5yRdWx3wFCmyCddw8"
 
 [registry]
 url = "https://api.apr.dev"
